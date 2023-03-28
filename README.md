@@ -2,8 +2,7 @@
 
 I'm a highly motivated Senior Full Stack Web Developer with over 10 years of experience in web application development. I'm dedicated to writing clean, maintainable, and scalable code that emphasizes performance. I love collaborating with cross-functional teams to ensure successful project outcomes.
 
-📱 +1 (310) 936-6429
-📍 5601 E 13th Ave, Denver, CO, 80220, United States
+📍 Denver, CO, United States
 ✉️ austinclarkjenkins@gmail.com
 
 ## 🛠 My Skills
