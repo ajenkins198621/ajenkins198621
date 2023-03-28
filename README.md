@@ -5,6 +5,11 @@ I'm a highly motivated Senior Full Stack Web Developer with over 10 years of exp
 📍 Denver, CO, United States
 ✉️ austinclarkjenkins@gmail.com
 
+## 📈 My GitHub Stats
+Sadly my day job uses BitBucket so those aren't included here 😔
+
+[![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajenkins198621&show_icons=true&theme=radical)](https://github.com/ajenkins198621/github-readme-stats)
+
 ## 🛠 My Skills
 
 - **Languages:** JavaScript, TypeScript, PHP, HTML, CSS
