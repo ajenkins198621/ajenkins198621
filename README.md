@@ -6,9 +6,11 @@ I'm a highly motivated Senior Full Stack Web Developer with over 10 years of exp
 ✉️ austinclarkjenkins@gmail.com
 
 ## 📈 My GitHub Stats
-Sadly my day job uses BitBucket so those aren't included here 😔
+😔 Sadly my day job uses BitBucket so those aren't included here. 😔
 
-[![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajenkins198621&show_icons=true&theme=radical)](https://github.com/ajenkins198621/github-readme-stats)
+[![Your Name's GitHub stats](https://github-readme-stats-git-master-ajenkins198621.vercel.app/api?username=ajenkins198621&show_icons=true&theme=radical&count_private=true)](https://github.com/ajenkins198621/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats-git-master-ajenkins198621.vercel.app/api/top-langs/?username=ajenkins198621&layout=compact&count_private=true)](https://github.com/yourusername/github-readme-stats)
 
 ## 🛠 My Skills
 
