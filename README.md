@@ -31,7 +31,7 @@ I'm a highly motivated Senior Full Stack Web Developer with over 10 years of exp
 ## 🌐 Find Me Online
 
 - [LinkedIn](https://www.linkedin.com/in/austincjenkins/)
-- [Twitter](https://twitter.com/yourusername)
-- [Personal Website](https://yourwebsite.com)
+- [Twitter](https://twitter.com/awesomeojenkins)
+- [Personal Website](https://acjenkins.com)
 
 Feel free to check out my repositories and give a ⭐ if you like what you see! If you'd like to collaborate or chat, don't hesitate to reach out. Happy coding! 🚀
