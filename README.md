@@ -2,7 +2,8 @@
 
 ## 💼 Employment History
 
-- **Engineering Manager, Product,** BLR, Remote _(May 2024 — Present)_
+- **Engineering Manager, Product,** BLR, Remote _(Feb 2026 — Present)_
+- **Senior Lead Software Engineer,** BLR, Remote _(May 2024 — Feb 2026)_
 - **Senior Lead Front-end Engineer,** Vail Resorts, Broomfield, CO _(Oct 2021 — Oct 2023)_
 - **Lead Full Stack Web Developer,** Swaptimal, Denver, CO _(Apr 2019 — Present)_
 - **Full Stack Web Developer,** TravMedia, New York City, NY _(Oct 2015 — Jun 2017)_
